@@ -1,0 +1,43 @@
+main {
+  background-color: #EBFFFA;
+}
+
+.btn {
+  font-size: 12px;
+}
+
+#form-editor {
+  margin: 40px auto;
+  font-size: 12px;
+  width: 600px;
+}
+
+#label-editor {
+  background-color: #6DC5AB;
+  border: solid black 1px;
+  margin: 0;
+}
+
+#form-preview {
+  width: 800px;
+  margin: auto;
+}
+
+#label-preview {
+  font-size: 12px;
+  background-color: #6DC5AB;
+  border: solid black 1px;
+  margin: 0;
+}
+
+#editor {
+  height: 200px;
+  border: solid black 1px;
+}
+
+#preview {
+  background-color: white;
+  border: solid black 1px;
+  padding: 20px 40px;
+  margin: 0 0 20px 0;
+}
